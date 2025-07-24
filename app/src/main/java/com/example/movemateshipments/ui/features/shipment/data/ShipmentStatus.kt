@@ -1,9 +1,9 @@
 package com.example.movemateshipments.ui.features.shipment.data
 
 import androidx.compose.ui.graphics.Color
-import androidx.compose.ui.graphics.Color.Companion.Green
 import com.example.movemateshipments.R
 import com.example.movemateshipments.ui.theme.Orange
+import com.example.movemateshipments.ui.theme.Green
 
 data class ShipmentStatus(
     val status: ShipmentStatusLabel,
